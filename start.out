@@ -1,0 +1,13 @@
+[1.2s] eve start up
+[1.5s] slow tool started (session wrun_01M5X1DS37DRYCAZ1W1NWWXVW9)
+[4.5s] server killed with SIGKILL mid-tool
+[4.5s] port free after 0.0s
+[5.3s] server restarted (eve start)
+[10.3s] message sent during the wait: accepted
+[862.5s] session resumed (slow-start 25s): 857.2s after the restart, 861.0s after the interrupted tool started
+side effects, in order:
+  effect a
+  slow-start 25s
+  slow-start 25s
+  slow-end
+  effect c
